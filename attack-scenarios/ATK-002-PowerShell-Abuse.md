@@ -32,10 +32,9 @@ Event ID 4688 — Process Creation
 
 Expected IOC:
 
-powershell.exe 
-Encoded commands - 
-Suspicious command arguments
-Unusual parent process
+Process name - powershell.exe
+Parent process - cmd.exe
+Command line - powershell.exe -nop -w hidden -encodedcommand aW52b2tl...
 Source/user account - john
 
 Expected Detection:
