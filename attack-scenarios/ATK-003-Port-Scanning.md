@@ -31,7 +31,8 @@ Repeated connections from one source IP
 
 Expected IOC:
 
-Source IP - 192.168.1.50 , 192.168.1.10
+Source IP - 192.168.1.50 
+target IP - 192.168.1.10
 Large number of destination ports - 1000 destination ports 
 High connection rate - high
 
