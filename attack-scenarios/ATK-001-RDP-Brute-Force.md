@@ -28,6 +28,7 @@ Expected Events:
 Expected IOC:
 
 Source IP - 192.168.1.50
+Target IP - 192.168.1.10
 Target account - john
 Repeated authentication failures - 25 failed attempts
 Time window: 2 minutes
